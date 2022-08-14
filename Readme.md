@@ -9,7 +9,7 @@ The website focuses on implementing the basics of HTML and CSS to create this We
 - position
 - CSS flex boxes
 
-## [Live Preview](https://project02-liard.vercel.app/)
+## [Live Preview](https://project03-one.vercel.app/)
 
 ### SnapShot of the Webpage
 
